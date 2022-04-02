@@ -1,0 +1,23 @@
+.catalog__title {
+  display: flex;
+  justify-content: center;
+  font-size: 53px;
+  color: black;
+}
+
+.catalog__wrapper {
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin-bottom: 40px;
+}
+
+.card__picture {
+  max-width: 320px;
+}
